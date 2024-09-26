@@ -1,3 +1,20 @@
-*{
+
+body{
+    font-size: 13px;
+    background-color: #354F6C;
+    color: #112A46;
     font-family: monospace;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    display: flex;
+}
+.names{
+    font-family:'Times New Roman', Times, serif;
+}
+.password{
+    font-family: 'Times New Roman', Times, serif;
+}
+.save{
+    font-family: 'Times New Roman', Times, serif;
 }
